@@ -5,7 +5,7 @@
 
 
 
-## Katkılar
+<h2 align="center">Katkılar </h2>
 
 Proje katkılara her zaman açık!
 
