@@ -7,7 +7,7 @@ Kekstra reklamında geçen şarkının senaryosunu oluşturabilirsiniz.
 
 ## Katkılar
 
-<center>Proje katkılara her zaman açık! </center>
+Proje katkılara her zaman açık!
 
 
 
