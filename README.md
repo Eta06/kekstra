@@ -13,8 +13,10 @@ Proje katkılara her zaman açık!
 
 
 ## Kullanımı
-![](https://github.com/Eta06/kekstra/blob/main/Kekstra-GitHub.gif?raw=true
-)
+<p align="center">
+  <img src="https://github.com/Eta06/kekstra/blob/main/Kekstra-GitHub.gif?raw=true"/>
+</p>
+
 
 
 ## Yazarlar
