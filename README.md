@@ -1,7 +1,7 @@
   
 <h1 align="center">Kekstra Reklamı </h1>
 
-Kekstra reklamında geçen şarkının senaryosunu oluşturabilirsiniz.
+<p align ="center">Kekstra reklamında geçen şarkının senaryosunu oluşturabilirsiniz. </p>
 
 
 
